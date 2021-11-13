@@ -1,0 +1,2 @@
+@host = http://localhost:5000
+POST {{host}}/user HTTP/1.1
